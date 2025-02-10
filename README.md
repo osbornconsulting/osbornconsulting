@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osbornconsulting
 - 👀 I’m interested in supporting open source
-- 🌱 I’m currently learning scripting
+- 🌱 I’m always learning PowerShell and Python
 - 💞️ I’m looking to collaborate on civil engineering projects
 
 <!---
